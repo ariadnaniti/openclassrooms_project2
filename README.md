@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ## Use:
 
 Simply executing the file should suffice, for example with the terminal command:
-python main.py
+python scraping.py
 
 ## Output:
 
